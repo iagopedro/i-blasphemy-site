@@ -1,8 +1,13 @@
 import React from 'react';
+import Options from './components/Options';
+
+import './global.css';
 
 function App() {
   return (
-    <h1>I, Blasphemy</h1>
+    <div className='main-container'>
+      <Options />
+    </div>
   );
 }
 
