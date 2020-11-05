@@ -9,6 +9,7 @@ function Main() {
         <span>Atormentado</span>
         <a 
           href='https://drive.google.com/file/d/1aB6RxdCXdQLJ_1eT6jbeuFZmMWVhcxi-/view?usp=sharing'
+          target='_blank'
         >
           <button>
             Download
