@@ -10,6 +10,7 @@ function Main() {
         <a 
           href='https://drive.google.com/file/d/1aB6RxdCXdQLJ_1eT6jbeuFZmMWVhcxi-/view?usp=sharing'
           target='_blank'
+          rel="noopener noreferrer"
         >
           <button>
             Download
