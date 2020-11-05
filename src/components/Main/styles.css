@@ -38,8 +38,9 @@ button {
   width: 100px;
   height: 40px;
   font-size: 15px;
-  color: white;
   font-weight: bold;
+  font-family: 'Droid serif';
+  color: white;
   background: rgb(36, 36, 36);
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;

@@ -12,12 +12,12 @@ html, body, #root {
 
 h1 {
   color: rgb(212, 212, 212);
+  margin: 2rem;
   font-weight: bold;
   font-family: 'Droid serif';
   font-style: italic;
   font-size: 2.5rem;
-  /* line-height: 44px; */
-  margin: 2rem;
+  text-shadow: 2px 2px 0 rgb(0, 0, 0);
 }
 
 .main-container {
