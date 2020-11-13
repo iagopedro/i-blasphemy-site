@@ -7,7 +7,7 @@ import './global.css';
 function App() {
   return (
     <div className='main-container'>
-      <Options />
+      <Options options={['FOTOS', 'MÚSICAS', 'DOCUMENTOS']} />
       <Main />
     </div>
   );
