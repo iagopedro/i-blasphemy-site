@@ -13,7 +13,7 @@ function Item({ name, link }) {
             rel="noopener noreferrer"
         >
             <button>
-            Ir para o Drive
+            Drive
             </button>
         </a>
         </li>
