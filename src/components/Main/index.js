@@ -12,6 +12,10 @@ function Main() {
         name={'Atormentado'}
         link={'https://drive.google.com/file/d/1aB6RxdCXdQLJ_1eT6jbeuFZmMWVhcxi-/view?usp=sharing'}
       />
+      <Item 
+        name={'Pré 02'}
+        link={'https://drive.google.com/drive/folders/1WjzaMbg5nyF0Ipha5qcv2WemkdAtgkzi?usp=sharing'}
+      />
       <li className='list-category'>Fotos</li>
       <Item 
         name={'Ensaio fotográfico no Monte dos Guararapes'}
@@ -26,7 +30,6 @@ function Main() {
         name={'Letras'}
         link={'https://drive.google.com/drive/folders/1-AQEaCPSxPCdfs9kM3FALj6nZnPGKaR5?usp=sharing'}
       />
-
     </ul>
   );
 }
