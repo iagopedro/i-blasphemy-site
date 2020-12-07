@@ -22,6 +22,11 @@ function Main() {
         link={'https://drive.google.com/drive/folders/1x_bqoHkrBiCbMAk0wnTer4NjLGA-fd6T?usp=sharing'}
       />
       <li className='list-category'>Documentos</li>
+      <Item 
+        name={'Letras'}
+        link={'https://drive.google.com/drive/folders/1-AQEaCPSxPCdfs9kM3FALj6nZnPGKaR5?usp=sharing'}
+      />
+
     </ul>
   );
 }
