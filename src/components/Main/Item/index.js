@@ -2,7 +2,7 @@ import React from 'react';
 
 import './styles.css';
 
-function Item({ name, link,  }) {
+function Item({ name, link }) {
   return (
     <>
     <li className='list-item'>
@@ -13,7 +13,7 @@ function Item({ name, link,  }) {
             rel="noopener noreferrer"
         >
             <button>
-            Download
+            Ir para o Drive
             </button>
         </a>
         </li>

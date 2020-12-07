@@ -1,5 +1,5 @@
 import React from 'react';
-import Options from './components/Options';
+import Header from './components/Header';
 import Main from './components/Main';
 
 import './global.css';
@@ -7,7 +7,7 @@ import './global.css';
 function App() {
   return (
     <div className='main-container'>
-      <Options options={['FOTOS', 'MÚSICAS', 'DOCUMENTOS']} />
+      <Header />
       <Main />
     </div>
   );
