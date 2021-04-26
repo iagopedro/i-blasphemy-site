@@ -12,7 +12,7 @@ function Item({ name, link }) {
             target='_blank'
             rel="noopener noreferrer"
         >
-          <button>Drive</button>
+          <button>Abrir</button>
         </a>
         </li>
     </>
